@@ -1,0 +1,54 @@
+
+
+# Site Settings
+title: 						"TechnoBlog"
+titleattached:              "Web Developer One Stop Destination"
+email: 						"atish.goswami@gmail.com"
+description: 				"A blog on all things web design, developement, server administration and more."
+baseurl: 					""
+url: 						"http://atishgoswami.com/"
+logourl: 					"/assets/img/bloglogo.jpg"		
+fa-logo: 					"fa fa-bolt"
+paginate: 					10
+
+
+# Author Settings
+author_name: 				"Atish Goswami"
+author_url: 				"http://atishgoswami.com/about/"
+author_bio: 				"I am a web developer by profession. I like web design development and anything in between"
+author_email: 				"atish.goswami@gmail.com"
+author_image: 				"/assets/img/authorimage.jpg"
+
+
+# Social Settings
+twitter_url: 				"https://twitter.com/getatish"
+facebook_url: 				"ttps://www.facebook.com/atish.goswami"
+github_url:  				"https://github.com/atishgoswami"
+youtube_url:  				"https://www.youtube.com/user/atishgoswami"
+googleplus_url:             "https://plus.google.com/115197349819052794336"
+linkedin_url:  				"https://in.linkedin.com/pub/atish-goswami/80/427/4b"
+dribbble_url:               "http://dribbble.com"
+instagram_url:              "http://instagram.com"
+pinterest_url:              "http://pinterest.com"
+
+
+# Theme Settings
+theme_disqus_shortname: 	"atish-blog"
+theme_google_comments: 		false
+theme_analytics_id: 		"UA-67097010-1"
+theme_analytics_domain: 	"atishgoswami.com"
+theme_reading_time: 		true
+theme_autoload_comments: 	false
+theme_always_show_nav: 		false
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty
